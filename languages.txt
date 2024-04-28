@@ -1,0 +1,14 @@
+{
+  "languages": [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C++",
+    "C#",
+    "Ruby",
+    "Swift",
+    "PHP",
+    "Go",
+    "Rust"
+  ]
+}
